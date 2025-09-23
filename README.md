@@ -1,6 +1,6 @@
 # HEY, I'M JUAN CARLOS 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-gonz%C3%A1lez-mac%C3%ADas-235460286/)
 
 
 🎓 Cybersecurity & Software Development Engineering Student  
@@ -38,4 +38,4 @@
 
 ## 📫 Contact Me
 - 📍 **Location:** Aguascalientes, Mexico  
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Juan-Carlos-González-Macías-235460286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-gonz%C3%A1lez-mac%C3%ADas-235460286/)
