@@ -28,7 +28,7 @@
 
 ## 🌎 Languages  
 - Spanish: Native  
-- English: Intermediate (B1, in progress)  
+- English: Intermediate (B2, in progress)  
 
 ## 🤝 Soft Skills  
 - Teamwork  
