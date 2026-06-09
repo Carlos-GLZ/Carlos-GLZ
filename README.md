@@ -1,41 +1,41 @@
-# HEY, I'M JUAN CARLOS 
+# Juan Carlos González Macías
+**Software Engineering Student · Backend & Cloud · Security**  
+📍 Aguascalientes, México · [LinkedIn](https://www.linkedin.com/in/juan-carlos-gonz%C3%A1lez-mac%C3%ADas-235460286/) · [GitHub](https://github.com/Carlos-GLZ) · gm1702jc@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-gonz%C3%A1lez-mac%C3%ADas-235460286/)
+Estudiante de Ingeniería en Seguridad Informática y Desarrollo de Software con enfoque en backend, automatización y arquitectura cloud-native. He diseñado y entregado proyectos end-to-end usando Python, REST APIs, Docker y AWS — aplicando buenas prácticas de seguridad desde el primer commit.
 
 
-🎓 Cybersecurity & Software Development Engineering Student  
+## 🛠️ Habilidades técnicas
 
-- I am a student of Cybersecurity and Software Development with foundations in programming (C, Java, Python in progress), knowledge of AWS (EC2, S3, VPC), networking, and Linux security.  
+**Lenguajes**  
+Python · JavaScript · Java · C++ · HTML/CSS
 
-- I’m passionate about technology, cloud computing, and digital transformation. 
+**Backend & APIs**  
+REST APIs · MQTT · Node.js · MySQL
 
-## 🛠️ Technical Skills  
-- **Programming:** C, Java (basic), Python (in progress)  
-- **Cloud Computing:** AWS (EC2, S3, VPC)  
-- **Operating Systems:** Linux (terminal, basic security)  
-- **Tools:** Microsoft Office  
+**DevOps & Cloud**  
+Docker · Docker Compose · NGINX · AWS (EC2, S3, VPC, IAM) · Linux (Ubuntu)
 
-## 🚀 Academic Projects  
-- **AWS Automation:** Infrastructure management with EC2, S3, VPC using Linux and AI support.  
-- **Programming Projects:** Problem-solving using C and Java.  
-- **PitchZone:** Platform in progress to connect students with investors using AWS CLI, EC2, and S3.  
+**Seguridad**  
+TLS/HTTPS · Autenticación por tokens/API keys · Gestión de secretos (.env) · DAST/SAST
 
-## 🎓 Education 
-- **Global University** — B.Sc. in Cybersecurity and Software Development *(2024 – Present)*
+**Machine Learning**  
+YOLOv8 · OpenCV · PyTorch · Visión por computadora en tiempo real
 
-## 🏆 Academic Achievements  
-- Best Project Award — Networking Class (2025)  
+**Herramientas**  
+Git/GitHub (feature branching) · VS Code · Prompt Engineering con LLMs
 
-## 🌎 Languages  
-- Spanish: Native  
-- English: Intermediate (B2, in progress)  
 
-## 🤝 Soft Skills  
-- Teamwork  
-- Problem-Solving  
-- Effective Communication  
-- Critical Thinking  
+## 🎓 Formación
 
-## 📫 Contact Me
-- 📍 **Location:** Aguascalientes, Mexico  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-gonz%C3%A1lez-mac%C3%ADas-235460286/)
+**Ingeniería en Seguridad Informática y Desarrollo de Software**  
+Global University · Aguascalientes · Sep 2024 – Sep 2027
+
+
+## 📜 Certificaciones
+
+- Cisco: Network Support and Security (2025)
+- Cisco: Network Addressing and Basic Troubleshooting (2025)
+
+
+🌐 Español nativo · Inglés B2 (en progreso)
